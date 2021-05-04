@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^3.4.1",
+    "chai-arrays": "^2.2.0",
     "solc": "^0.7.3"
   }
 }
